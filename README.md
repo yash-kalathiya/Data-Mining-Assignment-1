@@ -1,7 +1,8 @@
 # Data-Mining-Assignment-1
 
-Chatgpt chat link : https://chatgpt.com/share/68c752f8-35bc-8004-bf1d-adb67733cc34 \
-Medium blog link : https://medium.com/@yashkalathiya164/predicting-ipo-listing-prices-with-machine-learning-a-crisp-dm-walkthrough-244d823c574c
+Kaggle Dataset : https://www.kaggle.com/datasets/soumyadipghorai/all-ipo-stocks-of-moneycontrol
+Chatgpt chat : https://chatgpt.com/share/68c752f8-35bc-8004-bf1d-adb67733cc34 \
+Medium blog : https://medium.com/@yashkalathiya164/predicting-ipo-listing-prices-with-machine-learning-a-crisp-dm-walkthrough-244d823c574c
 
 A comprehensive data science project analyzing the factors influencing IPO listing prices, exploring demand trends, and building ML models to predict listing price.
 
