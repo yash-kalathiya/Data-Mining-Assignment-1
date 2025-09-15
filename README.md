@@ -1,6 +1,6 @@
 # Data-Mining-Assignment-1
 
-Kaggle Dataset : https://www.kaggle.com/datasets/soumyadipghorai/all-ipo-stocks-of-moneycontrol
+Kaggle Dataset : https://www.kaggle.com/datasets/soumyadipghorai/all-ipo-stocks-of-moneycontrol \
 Chatgpt chat : https://chatgpt.com/share/68c752f8-35bc-8004-bf1d-adb67733cc34 \
 Medium blog : https://medium.com/@yashkalathiya164/predicting-ipo-listing-prices-with-machine-learning-a-crisp-dm-walkthrough-244d823c574c
 
