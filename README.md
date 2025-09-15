@@ -82,7 +82,6 @@ y_pred = model.predict(X_test)
 ### 5. Evaluation
 
 - Metrics: **R² Score** and **MAE**
-- Visual validation with **Predicted vs Actual** scatter plot.
 
 ---
 
