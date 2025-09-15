@@ -24,12 +24,6 @@ A comprehensive data science project analyzing the factors influencing IPO listi
 ### Average List Price by Year
 ![Average List Price by Year](reports/figures/avg_list_price_by_year.png)
 
-### Calendar Trends (Seasonality)
-![Calendar Trends](reports/figures/calendar_trends.png)
-
-### Predicted vs Actual (XGBoost)
-![Predicted vs Actual](reports/figures/predicted_vs_actual.png)
-
 ---
 
 ## 🗂 Dataset Overview
@@ -126,7 +120,7 @@ y_pred = model.predict(X_test)
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/your-username/ipo-prediction.git
+git clone https://github.com/yash-kalathiya/ipo-prediction.git
 cd ipo-prediction
 
 pip install -r requirements.txt
