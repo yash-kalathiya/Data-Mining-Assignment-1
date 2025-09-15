@@ -95,45 +95,6 @@ y_pred = model.predict(X_test)
 
 ---
 
-## 🏗 Project Structure
-
-```
-├── data/
-│   ├── raw/
-│   ├── processed/
-├── notebooks/
-│   └── exploratory_analysis.ipynb
-├── src/
-│   ├── data_preprocessing.py
-│   ├── feature_engineering.py
-│   ├── model_training.py
-│   └── evaluation.py
-├── reports/
-│   ├── figures/
-│   │   ├── offer_vs_list_price.png
-│   │   ├── effect_total_subscription.png
-│   │   ├── avg_list_price_by_year.png
-│   │   └── predicted_vs_actual.png
-│   └── summary.md
-└── README.md
-```
-
----
-
-## ▶️ How to Run
-
-```bash
-git clone https://github.com/yash-kalathiya/ipo-prediction.git
-cd ipo-prediction
-
-pip install -r requirements.txt
-
-python src/data_preprocessing.py
-python src/model_training.py
-```
-
----
-
 ## 🚀 Future Improvements
 
 - Add market sentiment indices (Nifty/BSE performance around listing date).
